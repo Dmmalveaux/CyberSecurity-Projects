@@ -36,3 +36,7 @@ Incident Investigation
 | Windows 11        | 192.168.123.100 |
 | Windows 10        | 192.168.123.101 |
 | Kali              | 192.168.123.200 |
+
+## Active Directory Domain
+
+project.local
