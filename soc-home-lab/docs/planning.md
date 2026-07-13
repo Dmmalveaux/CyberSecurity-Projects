@@ -38,34 +38,6 @@ Incident Investigation
 | Kali              | 192.168.123.200 |
 
 
-                     Internet
-                          │
-                    Home Router
-                          │
-             VMware Virtual Switch
-                          │
-      ┌──────────────────────────────────┐
-      │                                  │
-Windows Server 2022             Splunk Enterprise
-192.168.10.10                   192.168.10.20
-Domain Controller               SIEM
-      │
- ┌────┴───────────────┐
- │                    │
-Windows 11         Windows 10
-192.168.10.100     192.168.10.101
-Employee           Employee
-      │
-      └──────────────┐
-                     │
-               Ubuntu Server
-               192.168.10.30
-               Web Server
-                     │
-                Kali Linux
-              192.168.10.200
-              Attacker
-
 ## Active Directory Domain
 
 project.local
