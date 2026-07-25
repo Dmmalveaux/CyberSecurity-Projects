@@ -288,6 +288,6 @@ This project was created for educational purposes within an isolated virtual lab
 
 Cybersecurity | Blue Team | SOC Analyst | Detection Engineering | Threat Hunting | Incident Response
 
-*GitHub Portfolio:* **(Add your GitHub URL here)**
+GitHub Portfolio: https://github.com/Dmmalveaux/CyberSecurity-Projects/tree/main/Active-Directory-Attack-and-Defense-Lab
 
-*LinkedIn:* **(Add your LinkedIn URL here)**
+LinkedIn: www.linkedin.com/in/davionte-malveaux-b68832353
